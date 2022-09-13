@@ -1,14 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from './App';
+import App from './src/App';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import Solucoes from './components/pages/solucoes/Solucoes';
-import Downloads from './components/pages/downloads/Downloads';
-import Blog from './components/pages/blog/Blog';
-import Contato from './components/pages/contato/Contato';
-import Menu from './components/pages/conta_cliente/ContaCli';
-import Headers from './components/pages/headers/Headers';
-import Home from './components/pages/home/Home';
+import Solucoes from './src/components/pages/solucoes/Solucoes';
+import Downloads from './src/components/pages/downloads/Downloads';
+import Blog from './src/components/pages/blog/Blog';
+import Contato from './src/components/pages/contato/Contato';
+import Menu from './src/components/pages/conta_cliente/ContaCli';
+import Headers from './src/components/pages/headers/Headers';
+import Home from './src/components/pages/home/Home';
 
 import reportWebVitals from'./reportWebVitals';
 
