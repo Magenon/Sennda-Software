@@ -1,0 +1,18 @@
+.app-container {
+    font-family: sans-serif;
+    height: calc(70vh - 34px - 50px - 64px);
+    padding: 2rem;
+    display: flex;
+    flex-direction: row;
+
+    width: 100%;
+}
+
+/* .h1_withe{
+    color: rgb(22, 22, 22);
+} */
+
+.item-container {
+    width: 40%;
+}
+

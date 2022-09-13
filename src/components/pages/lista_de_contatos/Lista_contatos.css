@@ -1,0 +1,15 @@
+.font-label {
+    background: #a3bda6;
+    padding: .1rem 2rem;
+    text-align: right;
+    text-align: center;
+    color: #201d1d;
+    font-size: 20px;
+    padding-right: 20px;
+
+
+}
+.textBox-email {
+    padding-right: 50px;
+    padding: 0;
+}

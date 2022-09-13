@@ -1,0 +1,32 @@
+.logo {  
+    width: 170px;
+    height: 59px;
+    background-size: 100%;
+    margin: 8px;
+    z-index: 400;
+    background-image: url('../img/logo-sennda-topo.png');
+    float: left;
+    position: relative;
+    transition: all 200ms linear;      
+}
+
+.logo-container {   
+    width: 220px;
+    height: 112px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: url(../img/fundo-logo-container.png) no-repeat;
+    background-size: 100%;
+
+    box-sizing: border-box;
+}
+
+header {
+    align-items: center;
+    height: 12vh;
+    display: flex;
+    justify-content: space-between;
+    background-color: transparent;
+    box-shadow: 0 0 1rem black;    
+}

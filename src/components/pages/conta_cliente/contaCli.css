@@ -1,0 +1,136 @@
+.ButtonBots {
+    background: #B61117;
+    color: #fff;
+    transition: all 200ms linear;
+}
+
+.containerMc {
+    /* float: right; */
+    text-align: center;    
+
+    margin: auto;
+    width: 220px;
+
+    width: 70vw; 
+    margin-left : 15vw;
+}
+
+.containerCad {
+    max-width: 1200px;
+    margin: 0 auto;
+    right: 100xpx;
+    color: aquamarine;
+    display: inline-block;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.woocommerce form .form-row {
+    padding: 3px;
+    margin: 0 0 6px;
+}
+
+.woocommerce form .form-row label {
+    line-height: 2;
+}
+
+.woocommerce .col2-set .col-1,
+.woocommerce-page .col2-set .col-1 {
+    float: left;
+    width: 48%;
+}
+
+.woocommerce .col2-set,
+.woocommerce-page .col2-set {
+    width: 100%;
+}
+
+.woocommerce .woocommerce-form-login .woocommerce-form-login__rememberme {
+    display: inline-block;
+}
+
+.woocommerce #respond input#submit,
+.woocommerce a.button,
+.woocommerce button.button,
+.woocommerce input.button {
+    background: #B61117;
+    color: #fff;
+    transition: all 200ms linear;
+}
+
+.woocommerce .col2-set .col-1,
+.woocommerce .col2-set .col-2,
+.woocommerce-page .col2-set .col-1,
+.woocommerce-page .col2-set .col-2 {
+    float: none;
+    width: 100%;
+}
+
+.woocommerce form .form-row-last,
+.woocommerce-page form .form-row-last {
+    float: right;
+}
+
+.woocommerce form .form-row input.input-text,
+.woocommerce form .form-row textarea {
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0;
+    outline: 0;
+    line-height: normal;
+}
+
+.woocommerce form .password-input,
+.woocommerce-page form .password-input {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+}
+
+.woocommerce-LostPassword {
+    color: rgb(18, 18, 19);
+    background-color: #3c4046;
+    margin: 10px;
+    text-align: center;
+    padding-right: 10px;
+    box-sizing: border-box;
+}
+
+.woocommerce form .form-row input.input-text,
+.woocommerce form .form-row textarea {
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0;
+    outline: 0;
+    line-height: normal;
+}
+
+.woocommerce form .show-password-input,
+.woocommerce-page form .show-password-input {
+    position: absolute;
+    right: 0.7em;
+    top: 0.7em;
+    cursor: pointer;
+}
+
+.woocommerce .woocommerce-form-login .woocommerce-form-login__submit {
+    float: left;
+    margin-right: 1em;
+}
+
+.woocommerce form.checkout_coupon,
+.woocommerce form.login,
+.woocommerce form.register {
+    border: 1px solid #d3ced2;
+    padding: 20px;
+    margin: 2em 0;
+    text-align: left;
+    border-radius: 5px;
+}
